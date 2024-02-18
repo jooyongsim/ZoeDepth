@@ -1,6 +1,6 @@
 # **ZoeDepth: Combining relative and metric depth** (Official implementation)  <!-- omit in toc -->
 ## 코랩에서 hub로 load시 문제들을 해결, ZoeDepth 예제와 MiDaS 예제 돌려보기:
-[Colab Fixes](https://colab.research.google.com/drive/1FgaLEnxZVW17RcbN5cKmPRrIDEipCxZR?usp=sharing)
+[Colab Fixes][![Open In Collab](https://colab.research.google.com/drive/1FgaLEnxZVW17RcbN5cKmPRrIDEipCxZR?usp=sharing)
 
 ![image](https://github.com/jooyongsim/ZoeDepth/assets/10238769/c0b62b08-218e-4d4d-8431-860f27aae65c)
 
